@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Patri-phy, a passionate physicist
+- 👀 I’m interested in expand my knowledge in computer science
+- 🌱 I’m currently learning git
+- 📫 You can reach me through my mail patrizio.spada7@gmail.com
