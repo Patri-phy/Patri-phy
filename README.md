@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Patri-phy, a passionate physicist
-- 👀 I’m interested in expand my knowledge in computer science
-- 🌱 I’m currently learning git
+- 🌱 My main interests are physics, mathematics, logic and data science
+- 👀 I’m also interested in expand my knowledge in software development
 - 📫 You can reach me through my mail patrizio.spada7@gmail.com
